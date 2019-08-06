@@ -1,0 +1,1 @@
+.\MRSpatialPackagerHelperScript.ps1 -AppName holoshell -UserName VR -Mode import -MapxPath D:\SoRealGame\MapShare\Map\ -LockMap 1
